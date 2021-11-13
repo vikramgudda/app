@@ -1,0 +1,28 @@
+{
+  "Users": [
+    {
+      "id": "1",
+      "name": "Vikram",
+      "email": "Vikram@gmail.com",
+      "password": "Vikram@2001"
+    },
+    {
+      "id": "2",
+      "name": "Vicky",
+      "email": "Vikram2@gmail.com",
+      "password": "Vik2ram@2001"
+    },
+    {
+      "id": "5",
+      "name": "Gudda Vikram",
+      "email": "vikram.g19@iiits.in",
+      "pass": "94904"
+    },
+    {
+      "id": "6",
+      "name": "varun",
+      "email": "vk",
+      "pass": "399302"
+    }
+  ]
+}
